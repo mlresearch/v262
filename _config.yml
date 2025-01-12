@@ -11,10 +11,10 @@ sections:
   title: Model Efficiency \& Compression
 - name: Inference
   title: Inference
-- name: " Benchmark \\& Evaluation"
-  title: " Benchmark \\& Evaluation"
-- name: 'Applications '
-  title: 'Applications '
+- name: Benchmark \& Evaluation
+  title:  Benchmark \& Evaluation
+- name: Applications
+  title: Applications
 volume: '262'
 year: '2024'
 start: &1 2024-12-14
